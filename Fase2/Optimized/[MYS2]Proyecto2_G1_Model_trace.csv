@@ -1,10 +1,10 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0;Orden.113;Model;0.CreateOnlineOrder;[Assign] Assign5;Unable to get value of property 'Assign.Assignments[3].AssignmentsNewValue'.
-0;Orden.113;Model;0.CreateOnlineOrder;[Assign] Assign5;Could not determine the row to use in referenced table or repeat group 'Phase1_df_sec'.
-0;Orden.113;Model;0.CreateOnlineOrder;[Assign] Assign5;For possible causes, check whether table row references have been set correctly for the object, element, or token that is key to the property or expression evaluation.
-0;Orden.113;Model;0.CreateOnlineOrder;[Assign] Assign5;The following table selections were available at time of resolution:
-0;Orden.113;Model;0.CreateOnlineOrder;[Assign] Assign5;  Associated object (Orden.113) references:
-0;Orden.113;Model;0.CreateOnlineOrder;[Assign] Assign5;   Table references: Phase1_df_types[1]
-0;Orden.113;Model;0.CreateOnlineOrder;[Assign] Assign5;   Explicit selection: Phase1_df_types[1]
-0;Orden.113;Model;0.CreateOnlineOrder;[Assign] Assign5;   Potential rows: [None]
+0.0180207712639306;Orden.118;Model;8.promTimePersonInRestaurant_trigger;[Assign] Assign1;Unable to get value of property 'Trabajador4.ProcessingTime'.
+0.0180207712639306;Orden.118;Model;8.promTimePersonInRestaurant_trigger;[Assign] Assign1;Could not determine the row to use in referenced table or repeat group 'Phase1_df_sec'.
+0.0180207712639306;Orden.118;Model;8.promTimePersonInRestaurant_trigger;[Assign] Assign1;For possible causes, check whether table row references have been set correctly for the object, element, or token that is key to the property or expression evaluation.
+0.0180207712639306;Orden.118;Model;8.promTimePersonInRestaurant_trigger;[Assign] Assign1;The following table selections were available at time of resolution:
+0.0180207712639306;Orden.118;Model;8.promTimePersonInRestaurant_trigger;[Assign] Assign1;  Associated object (Orden.118) references:
+0.0180207712639306;Orden.118;Model;8.promTimePersonInRestaurant_trigger;[Assign] Assign1;   Table references: Phase1_df_types[1]
+0.0180207712639306;Orden.118;Model;8.promTimePersonInRestaurant_trigger;[Assign] Assign1;   Explicit selection: Phase1_df_types[1]
+0.0180207712639306;Orden.118;Model;8.promTimePersonInRestaurant_trigger;[Assign] Assign1;   Potential rows: [None]
 
